@@ -1,0 +1,3 @@
+
+
+void encrypt(char *);
